@@ -1,0 +1,48 @@
+
+.price 
+{
+    background-color:white;
+    padding: auto;
+    border: 3px solid whitesmoke;
+    width: 25vw;
+    padding: 30px;
+    margin: 25px;
+}
+.price p , dt
+{
+    text-align: center;
+}
+.plan
+{
+    display: flex;
+}
+.button1 {
+    background-color:red;
+    color: white;
+    padding: 10px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    align-items: center;
+  }
+  .button1:hover {
+    background-color:royalblue;
+  }
+  .move
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .price:hover
+  {
+    background-color:gold;
+    
+    transition: 0.3s;
+  }
+  h1
+  {
+    text-align: center;
+  }
+
+  
