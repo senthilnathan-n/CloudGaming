@@ -1,7 +1,7 @@
 <h1 align="center">Hello world👋, I'm SENTHILNATHAN.N</h1>
 <h3 align="center">Tech Enthusiast: Coding the Future on GitHub"</h3>
 
-- 🔭 I’m currently working on **Vitaminds**
+- 🔭 I’m currently working on **Vitaminds Project**
 
 - 🌱 I’m currently learning **ReactJs**
 
