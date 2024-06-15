@@ -1,0 +1,27 @@
+.box1{
+    display: flex;
+    
+}
+.bg{
+    background-image: url('../Images/bg.jpg'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.lol{
+    margin-left: 44px;
+    margin-top: 10px;
+    width: 250px;
+}
+.hov:hover{
+    transform: scale(1.1);
+}
+.h{
+    margin-left: 30px;
+    font-family:;
+    color: antiquewhite;
+    margin-top: 60px;
+    text-align: center;
+}
