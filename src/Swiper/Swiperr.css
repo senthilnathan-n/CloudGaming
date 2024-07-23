@@ -1,0 +1,59 @@
+#app {
+    height: 100%;
+  }
+  html,
+  body {
+    position:relative;
+    height: 100%;
+  }
+  
+  body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+  
+.swiper {
+    width: 80%;
+    height: 110%;
+    margin-Top: 2%;
+    
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    width: 100%;
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 300%;
+    height: 0%;
+    object-fit: cover;
+  }
+  
+.btn {
+    border: none;
+   
+    background-color: rgb(192,192,192,0.5);
+ 
+    
+    font-size: 20px;
+    
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: black;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  /* On mouse-over */
+  .btn:hover {background: #6fc1c0;
+transform: scale(1.2);}
